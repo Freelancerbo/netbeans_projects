@@ -1,2 +1,2 @@
 # netbeans_projects
-All java projects
+weather app projects
